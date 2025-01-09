@@ -1,0 +1,27 @@
+{
+  "name": "slidev-addon-demotime",
+  "version": "0.0.1",
+  "type": "module",
+  "keywords": [
+    "slidev-addon",
+    "slidev"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "build": "slidev build example.md",
+    "dev": "slidev example.md --open",
+    "export": "slidev export example.md",
+    "screenshot": "slidev export example.md --format png"
+  },
+  "dependencies": {
+    "@slidev/types": "^51.0.0"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^51.0.0"
+  },
+  "author": "Elio Struyf <elio@struyfconsulting.be>",
+  "funding": "https://github.com/sponsors/estruyf",
+  "bugs": "https://github.com/estruyf/slidev-addon-demotime/issues"
+}
