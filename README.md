@@ -44,3 +44,7 @@ This slide triggers the first demo after **1** click.
 - `port`: The port where the Demo Time server is running. Default is `3710`.
 - `host`: The host where the Demo Time server is running. Default is `http://localhost`.
 - `image`: The image to show in the slide. Default is the Demo Time logo.
+
+<br />
+
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Festruyf%2Fslidev-addon-demotime"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Festruyf%2Fslidev-addon-demotime&countColor=%23263759" /></a>
