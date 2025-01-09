@@ -16,7 +16,7 @@ clicks: 1
 
 This slide triggers the first demo after **1** click.
 
-<vscode-action
+<demotime
     click="1"
     id="demo1" />
 
